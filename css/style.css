@@ -19,7 +19,7 @@
 }
 
 body {
-    background-image: url("heart.GIF");
+     background-image: url("heart.GIF"); /*You can change this image */
     background-size: cover;
     background-position: center;
     margin: 0;
@@ -40,7 +40,7 @@ body {
     justify-content: space-between;
     width: 100%;
     position: absolute;
-    bottom: 70px; /* Змінено позиціонування */
+    bottom: 70px; 
     left: 0;
     padding: 0 20px;
     box-sizing: border-box;
